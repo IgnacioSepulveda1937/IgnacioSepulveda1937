@@ -1,19 +1,6 @@
-Who am I ?
+Hi, Im Ignacio Sepulveda from Santiago, Chile. 
 
-Hi, Im Ignacio Sepulveda from Santiago, Chile. I have a degree in Comercial Engineering in Economics. Im currently studying a Master degree in Financial Economics.
+Currently working in a Pension Fund as a Data Scientist, analyts role,  for Data Science/Asset Allocation team. 
 
-My interest ? 
+Python,R and SQL. 
 
-Data Science, Quantitative Finance, Macroeconomics, Financial Risk y Household finance. 
-
-Where am I working ?
-
-I am working in a Pension Fund as a Data Scientist, analyts role,  for Asset Allocation team. 
-
-What programming language I use?
-
-For work,Python and SQL.
-
-In the University, R and Stata. 
-
-By far, Python is my go-to.
