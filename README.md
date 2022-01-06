@@ -8,7 +8,7 @@ Data Science, Quantitative Finance, Macroeconomics, Financial Risk y Household f
 
 Where am I working ?
 
-I am working in a Pension Fund as a Data Sciencist, analyts role,  for Asset Allocation team. 
+I am working in a Pension Fund as a Data Scientist, analyts role,  for Asset Allocation team. 
 
 What programming language I use?
 
