@@ -14,6 +14,6 @@ What programming language I use?
 
 For work,Python and SQL.
 
-In the University, R and Stata. This is fault of the Econometrics. 
+In the University, R and Stata. 
 
 By far, Python is my go-to.
